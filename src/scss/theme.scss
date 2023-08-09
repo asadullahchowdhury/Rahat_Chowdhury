@@ -1,0 +1,148 @@
+body{
+  &.light {
+    background-color: $white;
+    color: $light-text;
+
+    /*global*/
+    .title-section {
+      .title-bg {
+        color: rgba(30, 37, 48, .07);
+      }
+
+      h1 {
+        color: $light-text;
+      }
+    }
+
+    /*header*/
+    .header {
+      .theme-switcher {
+        background-color: $off-white;
+        color: $light-text;
+      }
+
+      .header-list {
+        @media screen and (max-width: 991px) {
+          background: $white;
+          box-shadow: 0 0 47px $light-header-box-shadow;
+        }
+
+        a {
+          background-color: $off-white;
+          color: $light-text;
+
+          &.router-link-exact-active {
+            color: $white;
+          }
+        }
+      }
+    }
+
+    /*homepage*/
+    .homepage {
+      .home-content {
+        .home-title {
+          span {
+            color: $light-text;
+          }
+        }
+      }
+
+    }
+
+    /*about*/
+    .about {
+      .about-main-content {
+        .c100 {
+          background-color: $off-white;
+
+          span {
+            color: $light-text;
+          }
+        }
+
+        .resume-box {
+          .resume-list-item {
+            .time {
+              background-color: $off-white;
+              color: $light-text;
+            }
+
+            &:after {
+              border-left-color: $resume-light-border;
+            }
+          }
+        }
+      }
+    }
+
+    /*portfolio*/
+    .portfolio {
+      .portfolio-tab-list {
+        .each-tab {
+          color: darken($light-text, 17%);
+        }
+      }
+    }
+
+
+    /*contact*/
+    .contact{
+      .contact-info{
+        a{
+          color: $light-text;
+        }
+      }
+      .social-list{
+        li{
+          a{
+            background-color: $off-white;
+            color: $light-text;
+            &:hover{
+              background-color: $theme;
+              color: $white;
+            }
+          }
+        }
+      }
+      .contact-form{
+        .form-group{
+          input,textarea{
+            background-color: $white;
+            border-color: $resume-light-border;
+            color: $light-text;
+            &:focus{
+              border-color: $theme;
+            }
+          }
+
+        }
+      }
+    }
+
+    /*blog*/
+    .blog{
+      .blog-content{
+        .post-container{
+          .post-content{
+            background-color: $off-white;
+            .post-content-header{
+              color:darken( $light-text,20%);
+            } .post-content-text{
+                color:darken( $light-text,20%);
+              }
+          }
+        }
+      }
+    }
+
+
+    .btn-theme {
+      color: $light-text;
+
+      &:hover {
+        color: white;
+      }
+    }
+  }
+}
