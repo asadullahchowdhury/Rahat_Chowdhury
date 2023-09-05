@@ -22,19 +22,19 @@
       <div class="container">
         <div class="tab-container">
 
-          <div class="tab-content mix category-a">
-            <img class="tab-content-img" src="/images/portfolio/project-1.webp" alt="project-">
+          <a class="tab-content mix category-a" href="https://themely.thethemeai.com/" target=”_blank”>
+            <img class="tab-content-img" src="/images/portfolio/themely.png" alt="project-">
             <h3 class="content-title-wrap">
-              <span class="content-title">Mockup Projects</span>
+              <span class="content-title">Themely</span>
             </h3>
-          </div>
+          </a>
 
-          <div class="tab-content mix category-a">
-            <img class="tab-content-img" src="/images/portfolio/project-2.webp" alt="project-2">
+          <a class="tab-content mix category-a" href="https://arrow.thethemeai.com/" target=”_blank”>
+            <img class="tab-content-img" src="/images/portfolio/Arrow.png" alt="project-2">
             <h3 class="content-title-wrap">
-              <span class="content-title">Mockup Projects</span>
+              <span class="content-title">Arrow</span>
             </h3>
-          </div>
+          </a>
 
           <div class="tab-content mix category-b">
             <img class="tab-content-img" src="/images/portfolio/project-3.webp" alt="project-3">
@@ -116,7 +116,7 @@ export default {
 
     Tabs() {
       this.mixer = mixitup('.tab-container')
-      
+
     }
   },
 
