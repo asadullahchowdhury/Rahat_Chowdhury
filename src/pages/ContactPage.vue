@@ -35,23 +35,23 @@
 
             <ul class="social-list list-unstyled pt-3 mb-5">
               <li>
-                <a href="https://www.facebook.com/">
+                <a href="https://www.facebook.com/rahat.chowdhury.5201?mibextid=ZbWKwL" target="_blank">
                   <i class="fa fa-facebook"></i>
                 </a>
               </li>
               <li>
-                <a href="https://www.twitter.com/">
+                <a href="https://twitter.com/Mr___chowdhury" target="_blank">
                   <i class="fa fa-twitter"></i>
                 </a>
               </li>
               <li>
-                <a href="https://www.youtube.com/">
-                  <i class="fa fa-youtube"></i>
+                <a href="https://www.instagram.com/mr___chowdhury/" target="_blank">
+                  <i class="fa fa-instagram"></i>
                 </a>
               </li>
               <li>
-                <a href="https://www.dribbble.com/">
-                  <i class="fa fa-dribbble"></i>
+                <a href="https://github.com/asadullahchowdhury" target="_blank">
+                  <i class="fa fa-github"></i>
                 </a>
               </li>
             </ul>
@@ -60,7 +60,7 @@
           </div>
 
           <div class="col-12 col-lg-8">
-            <form action="" class="contact-form">
+            <form action="https://formsubmit.co/crahat4@gmail.com" method="POST" class="contact-form">
               <div class="row">
                 <div class="col-12 col-md-6">
                   <div class="form-group">

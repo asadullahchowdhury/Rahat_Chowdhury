@@ -21,7 +21,7 @@
 
       <div class="container">
         <div class="tab-container">
-
+          <!--category a start-->
           <a class="tab-content mix category-a" href="https://themely.thethemeai.com/" target=”_blank”>
             <img class="tab-content-img" src="/images/portfolio/themely.png" alt="project-">
             <h3 class="content-title-wrap">
@@ -36,54 +36,102 @@
             </h3>
           </a>
 
-          <div class="tab-content mix category-b">
-            <img class="tab-content-img" src="/images/portfolio/project-3.webp" alt="project-3">
+          <div class="tab-content mix category-a" >
+            <img class="tab-content-img" src="/images/portfolio/petcare.png" alt="project-2">
             <h3 class="content-title-wrap">
-              <span class="content-title">Creative Projects</span>
+              <span class="content-title">Pet Care</span>
             </h3>
           </div>
+          <!--category a end  -->
+
+          <!--category b start-->
+          <a class="tab-content mix category-b" href="https://habibcomputer.com.bd/" target=”_blank”>
+            <img class="tab-content-img" src="/images/portfolio/HABIB%20COMPUTER%20(1).png" alt="project-3">
+            <h3 class="content-title-wrap">
+              <span class="content-title">Habib Computer</span>
+            </h3>
+          </a>
 
           <div class="tab-content mix category-b">
-            <img class="tab-content-img" src="/images/portfolio/project-4.webp" alt="project-4">
+            <img class="tab-content-img" src="/images/portfolio/Lager%20store.png" alt="project-4">
             <h3 class="content-title-wrap">
-              <span class="content-title">Youtube Projects</span>
-            </h3>
-          </div>
-
-          <div class="tab-content mix category-c">
-            <img class="tab-content-img" src="/images/portfolio/project-5.webp" alt="project-5">
-            <h3 class="content-title-wrap">
-              <span class="content-title">Slider Projects</span>
-            </h3>
-          </div>
-
-          <div class="tab-content mix category-a">
-            <img class="tab-content-img" src="/images/portfolio/project-6.webp" alt="project-6">
-            <h3 class="content-title-wrap">
-              <span class="content-title">Local Projects</span>
-            </h3>
-          </div>
-
-          <div class="tab-content mix category-d">
-            <img class="tab-content-img" src="/images/portfolio/project-7.webp" alt="project-7">
-            <h3 class="content-title-wrap">
-              <span class="content-title">Sass Projects</span>
-            </h3>
-          </div>
-
-          <div class="tab-content mix category-a">
-            <img class="tab-content-img" src="/images/portfolio/project-8.webp" alt="project-8">
-            <h3 class="content-title-wrap">
-              <span class="content-title">Mockup Projects</span>
+              <span class="content-title">Lager store</span>
             </h3>
           </div>
 
           <div class="tab-content mix category-b">
-            <img class="tab-content-img" src="/images/portfolio/project-9.webp" alt="project-9">
+            <img class="tab-content-img" src="/images/portfolio/Nest.png" alt="project-4">
             <h3 class="content-title-wrap">
-              <span class="content-title">Mockup Projects</span>
+              <span class="content-title">Nest</span>
             </h3>
           </div>
+
+
+          <!--category b end  -->
+
+          <!--category c start-->
+          <a class="tab-content mix category-c" href="https://invoice.thethemeai.com/" target=”_blank”>
+            <img class="tab-content-img" src="/images/portfolio/Invoice%20Generator.png" alt="project-5">
+            <h3 class="content-title-wrap">
+              <span class="content-title">Invoice Generator</span>
+            </h3>
+          </a>
+
+          <!--category c end  -->
+
+          <!--category d start-->
+          <a class="tab-content mix category-d" href="https://app-v4.dev.mybos.com/" target=”_blank”>
+            <img class="tab-content-img" src="/images/portfolio/MYBOS.png" alt="project-6">
+            <h3 class="content-title-wrap">
+              <span class="content-title">MYBOS</span>
+            </h3>
+          </a>
+
+          <a class="tab-content mix category-d" href="https://portal.equidesk.com/" target=”_blank”>
+            <img class="tab-content-img" src="/images/portfolio/Equidesk.png" alt="project-7">
+            <h3 class="content-title-wrap">
+              <span class="content-title">Equidesk</span>
+            </h3>
+          </a>
+
+          <a class="tab-content mix category-d" href="https://signme.thethemeai.com/" target=”_blank”>
+            <img class="tab-content-img" src="/images/portfolio/signmein.png" alt="project-7">
+            <h3 class="content-title-wrap">
+              <span class="content-title">Sign Me In</span>
+            </h3>
+          </a>
+
+          <!--category d end  -->
+
+          <!--category e start-->
+          <a class="tab-content mix category-e" href="http://tismor.bcgaustralia.com/">
+            <img class="tab-content-img" src="/images/portfolio/BCG%20Transport.png" alt="project-8">
+            <h3 class="content-title-wrap">
+              <span class="content-title">BGC Transport</span>
+            </h3>
+          </a>
+
+          <a class="tab-content mix category-e" href="https://postmark.thethemeai.com/">
+            <img class="tab-content-img" src="/images/portfolio/postmark.png" alt="project-8">
+            <h3 class="content-title-wrap">
+              <span class="content-title">Postmark</span>
+            </h3>
+          </a>
+          <!--category e end  -->
+
+          <a class="tab-content mix category-f" href="http://rahat.chowdhury.thethemeai.com/">
+            <img class="tab-content-img" src="/images/portfolio/personal-portfolio.png" alt="project-9">
+            <h3 class="content-title-wrap">
+              <span class="content-title">Template One</span>
+            </h3>
+          </a>
+
+          <a class="tab-content mix category-f" href="https://asadullahchowdhury.github.io/">
+            <img class="tab-content-img" src="/images/portfolio/Rahat_Chowdhury.png" alt="project-9">
+            <h3 class="content-title-wrap">
+              <span class="content-title">Template Two</span>
+            </h3>
+          </a>
 
 
         </div>
