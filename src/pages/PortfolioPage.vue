@@ -127,7 +127,7 @@
           </a>
 
           <a class="tab-content mix category-f" href="https://asadullahchowdhury.github.io/">
-            <img class="tab-content-img" src="/images/portfolio/Rahat_Chowdhury.png" alt="project-9">
+            <img class="tab-content-img" src="/images/portfolio/Rahat-Chowdhury.png" alt="project-9">
             <h3 class="content-title-wrap">
               <span class="content-title">Template Two</span>
             </h3>
